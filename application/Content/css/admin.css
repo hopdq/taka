@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+.row.table-filter-row{
+	padding-left: 10px;
+	margin: 10px 0px;
+}
+.table-filter-row .label{
+	padding-top: 7px;
+}
+.alert-box{
+	width: 400px;
+	position: fixed;
+	right: -20px;
+	top: 85px;
+	z-index: 10;
+}
+.alert-item{
+	display: none;
+}
+.tree li span.color-item{
+	display: block;
+	padding: 10px 20px;
+}
+.img-item{
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+.img-item .img{
+	margin-bottom: 5px;
+}
+#saveAttrBtn{
+	float:right;
+	margin-right: 10px;
+}
+#attrActionZone{
+	margin: 10px auto;
+}
